@@ -4,6 +4,7 @@ using ChilliTheBite.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // to test git
+
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddDbContext<ChilliTheBiteContext>(options =>
