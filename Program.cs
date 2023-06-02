@@ -3,6 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using ChilliTheBite.Data;
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
+
 builder.Services.AddRazorPages();
 builder.Services.AddDbContext<ChilliTheBiteContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("ChilliTheBiteContext") ?? throw new InvalidOperationException("Connection string 'ChilliTheBiteContext' not found.")));
