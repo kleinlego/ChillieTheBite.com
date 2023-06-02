@@ -9799,11 +9799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kleinboy Legodi\\Documents\\Warona\\Kago\\ChilliTheBite\\ChilliTheBite.csproj",
+      "projectUniqueName": "C:\\Users\\Kleinboy Legodi\\Documents\\Warona\\Kago\\ChilliTheBite\\ChillieTheBite\\ChilliTheBite.csproj",
       "projectName": "ChilliTheBite",
-      "projectPath": "C:\\Users\\Kleinboy Legodi\\Documents\\Warona\\Kago\\ChilliTheBite\\ChilliTheBite.csproj",
+      "projectPath": "C:\\Users\\Kleinboy Legodi\\Documents\\Warona\\Kago\\ChilliTheBite\\ChillieTheBite\\ChilliTheBite.csproj",
       "packagesPath": "C:\\Users\\Kleinboy Legodi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kleinboy Legodi\\Documents\\Warona\\Kago\\ChilliTheBite\\obj\\",
+      "outputPath": "C:\\Users\\Kleinboy Legodi\\Documents\\Warona\\Kago\\ChilliTheBite\\ChillieTheBite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

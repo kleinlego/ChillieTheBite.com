@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fqecqrTZBFRNKH/Jz/3lTr9+IS93cWzuhxkk02a54aeVPh+b1qfqGl5vRiVGFEFesZolsYBbjRl/3poyKhx3Yw==",
+  "dgSpecHash": "nxQ8cqOvqX5v6W5YB8iYJ8pDLm9The4O7s9+TXDZW02j9lUiXnNWnDaTTW+Woq6qs4xNNLYcjHfX0O9xV36pJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kleinboy Legodi\\Documents\\Warona\\Kago\\ChilliTheBite\\ChilliTheBite.csproj",
+  "projectFilePath": "C:\\Users\\Kleinboy Legodi\\Documents\\Warona\\Kago\\ChilliTheBite\\ChillieTheBite\\ChilliTheBite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kleinboy Legodi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Kleinboy Legodi\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

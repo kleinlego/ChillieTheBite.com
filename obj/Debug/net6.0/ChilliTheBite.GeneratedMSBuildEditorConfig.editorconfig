@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ChilliTheBite
 build_property.RootNamespace = ChilliTheBite
-build_property.ProjectDir = C:\Users\Kleinboy Legodi\Documents\Warona\Kago\ChilliTheBite\
+build_property.ProjectDir = C:\Users\Kleinboy Legodi\Documents\Warona\Kago\ChilliTheBite\ChillieTheBite\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Kleinboy Legodi\Documents\Warona\Kago\ChilliTheBite
+build_property.MSBuildProjectDirectory = C:\Users\Kleinboy Legodi\Documents\Warona\Kago\ChilliTheBite\ChillieTheBite
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/Error.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/Index.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/Privacy.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/Saurces/Create.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/Saurces/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2F1cmNlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/Saurces/Delete.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/Saurces/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2F1cmNlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/Saurces/Details.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/Saurces/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2F1cmNlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/Saurces/Edit.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/Saurces/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2F1cmNlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/Saurces/Index.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/Saurces/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2F1cmNlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/_ViewImports.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/_ViewStart.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/Pages/Shared/_Layout.cshtml]
+[C:/Users/Kleinboy Legodi/Documents/Warona/Kago/ChilliTheBite/ChillieTheBite/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-r746kfyazg

@@ -16,3 +16,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.bg {
+    background-image: url("img/Capture.PNG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
